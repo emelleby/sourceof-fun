@@ -5,7 +5,10 @@ cover: /assets/oslo-business-forum-2018.jpg
 slug: endringer
 category: ledelse
 tags:
-  - leadership ledelse change
+  - leadership
+  - ledelse
+  - change
+  - ''
 ---
 Hva er egentlig status i et selskap hvor «det går så det griner»? De fleste i selskapet kjenner oppgavene sine godt og løser dem på samme måte som de alltid har gjort. Det ga jo gode resultater i forrige kvartal, så hvorfor gjøre det annerledes denne gangen.
 
