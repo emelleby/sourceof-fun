@@ -2,7 +2,7 @@
 title: Endringer i store selskaper; ta grep før det er for sent!
 date: 2018-11-14T20:58:50.702Z
 cover: /assets/4thefuture_clash-of-clans-close-up_kilian-munch.jpg
-slug: endringer
+slug: fordeterforsent
 category: Ledelse
 tags:
   - leadership
