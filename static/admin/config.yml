@@ -1,7 +1,7 @@
 backend:
-  name: github # Refer to https://www.netlifycms.org/docs/authentication-backends/ for auth backend list and instructions
-  branch: master # Branch to update
-  repo: emelleby/sourceof-fun # Repo for pushing new commits. 
+  name: git-gateway #github # Refer to https://www.netlifycms.org/docs/authentication-backends/ for auth backend list and instructions
+  #branch: master # Branch to update
+  #repo: emelleby/sourceof-fun # Repo for pushing new commits. 
 
 media_folder: static/assets
 public_folder: assets
